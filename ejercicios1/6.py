@@ -1,0 +1,1 @@
+while True:    try:        total = float(input("Introduce el importe total: "))        print("El IVA de este producto es ",total-(total/1.1)," y el producto sin IVA es ",total/1.1)        break    except ValueError:        print("Introduce un numero por favor.")

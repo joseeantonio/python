@@ -1,0 +1,1 @@
+#No se va a sumar porque no controla que sea uyn int,por lo que si pongo una letra lo aceptaria
